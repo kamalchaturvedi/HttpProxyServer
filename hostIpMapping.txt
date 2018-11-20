@@ -1,0 +1,16 @@
+kam.com 1.2.44.22
+netstech.org 144.208.69.121
+conference2013.m.marbigen.org 192.135.166.121
+ajax.aspnetcdn.com 152.199.4.33
+ajax.aspnetcdn.com 152.199.4.33
+neverssl.com 52.84.216.214
+detectportal.firefox.com 23.215.104.97
+ciscobinary.openh264.org 23.62.227.146
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+acidoc.lifewatchgreece.eu 192.135.166.121
+storage.googleapis.com 172.217.1.80
